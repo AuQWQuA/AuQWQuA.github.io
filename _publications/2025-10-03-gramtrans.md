@@ -1,13 +1,11 @@
 ---
 title: "GramTrans: A Better Code Representation Approach in Code Generation"
 collection: publications
-category: manuscripts
 permalink: /publication/2025-10-03-gramtrans
-excerpt: 'We present GramTrans, a general approach that automatically transforms a context-free language into a representation within the LL(1) class, showing that parsing difficulty strongly correlates with model performance.'
+excerpt: '<strong>Zhao Zhang</strong>, Qingyuan Liang, Zeyu Sun, Yizhou Chen, Guoqing Wang, Yican Sun, Lu Zhang, Ge Li, Yingfei Xiong'
 date: 2025-10-03
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2510.02887'
-citation: 'Zhao Zhang, Qingyuan Liang, Zeyu Sun, Yizhou Chen, Guoqing Wang, Yican Sun, Lu Zhang, Ge Li, Yingfei Xiong. (2025). &quot;GramTrans: A Better Code Representation Approach in Code Generation.&quot; <i>arXiv preprint arXiv:2510.02887</i>.'
 ---
 Code generation has shown great promise in assisting software development. A fundamental yet underexplored question is how the choice of code representation affects model performance. While existing studies employ various representations, such as treating code as plain text, grammar rule sequences, or syntax tree sequences, they lack a principled understanding of the relationship between parsing difficulty and model effectiveness. 
 
